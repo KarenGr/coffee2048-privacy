@@ -1,8 +1,8 @@
 # Privacy Policy — Coffee 2048
 
 **Last updated:** 2026-03-25  
-**Developer:** [Your name / legal entity]  
-**Contact:** [your@email]
+**Developer:** Karen  
+**Contact:** programmproff@gmail.com
 
 ## Summary
 Coffee 2048 is a single-player puzzle game. We do not require an account. Game progress (score, settings) is stored on your device.
