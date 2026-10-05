@@ -25,6 +25,3 @@ The game is intended for a general audience. We do not knowingly collect persona
 
 ## Changes
 We may update this policy. The “Last updated” date will change when we do.
-
-## Hosting
-Host this file at a public HTTPS URL (for example `https://brewmerge.app/privacy`) and put that URL in Play Console and in the in-app Settings link before release.
